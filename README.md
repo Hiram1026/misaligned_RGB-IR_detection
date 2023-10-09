@@ -3,6 +3,9 @@
 ## Intro
 Official Code for [Misaligned RGB-Infrared Object Detection via Adaptive Dual-discrepancy Calibration]().
 
+## Paper
+https://www.mdpi.com/2072-4292/15/19/4887
+
 ## Installation 
 Refer to yolov5(https://github.com/ultralytics/yolov5).
   
